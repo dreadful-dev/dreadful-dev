@@ -1,4 +1,6 @@
-[![Dreadful Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreadful-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Dreadful Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreadful-dev&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreadful-dev&langs_count=5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dreadful-dev/dreadful-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
